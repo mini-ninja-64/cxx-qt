@@ -13,7 +13,7 @@
 
 #include <memory>
 
-#include <QtQuickControls2/QQuickStyle>
+#include <QQuickStyle>
 
 namespace rust {
 namespace cxxqtlib1 {
